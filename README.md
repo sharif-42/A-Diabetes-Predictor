@@ -9,7 +9,11 @@ This project predict the probability of diabetes of a person. Data sets were col
 * Jupyter Notebook
 * Scikit Learn
 
-### Installing Jupyter Notebook with pip
+### Inatall Scikit Learn Using PIP
+`
+pip install scikit-learn
+`
+### Installing Jupyter Notebook Using PIP
 `
 python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
@@ -19,7 +23,7 @@ python3 -m pip install jupyter
 pip install numpy
 `
 
-### To work properly follow the bellow commands
+### OR To work properly follow the bellow commands
 ``
 pip install -r requirements.txt
 `` 
