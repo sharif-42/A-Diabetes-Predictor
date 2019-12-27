@@ -1,9 +1,9 @@
 # Diabetes Predictor
 
 This project predict the probability of diabetes of a person. Data sets were collected from
- [**Kaggle**](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
- Pima Indian Diabetes Dataset. At first we have 10 feature. These are **No of Pregnencies, Age, 
-Glucose Concentration ,Blood Pressure ,Thickness, Insulin, Body Mass Index and Diabetes Predisposition**.
+ [**Kaggle Pima Indian Diabetes Dataset**](https://www.kaggle.com/uciml/pima-indians-diabetes-database). 
+ At first we have 10 feature. These are **No of Pregnencies, Age, Glucose Concentration ,Blood Pressure ,
+Thickness, Insulin, Body Mass Index and Diabetes Predisposition**.
 We found correlation Between **Skin and Thickness**. so we then remove one of them from our feature dataset. 
 #### And Finally Our Selected Features are
 - No of Pregnencies
@@ -23,14 +23,14 @@ We found correlation Between **Skin and Thickness**. so we then remove one of th
 * Jupyter Notebook
 * Scikit Learn
 
-### Inatall Scikit Learn Using PIP
-~~~~
-pip install scikit-learn
-~~~~
 ### Installing Jupyter Notebook Using PIP
 ~~~~
 python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
+~~~~
+### Inatall Scikit Learn Using PIP
+~~~~
+pip install scikit-learn
 ~~~~
 ### Install Numpy Using PIP
 ~~~~
