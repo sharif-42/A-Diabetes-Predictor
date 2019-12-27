@@ -1,6 +1,19 @@
 # Diabetes Predictor
 
-This project predict the probability of diabetes of a person. Data sets were collected from Pima Indian Diabetes Dataset.
+This project predict the probability of diabetes of a person. Data sets were collected from [**Kaggle**](https://www.kaggle.com/)
+ Pima Indian Diabetes Dataset. At first we have 10 feature. These are **No of Pregnencies, Age, 
+Glucose Concentration ,Blood Pressure ,Thickness, Insulin, Body Mass Index and Diabetes Predisposition**.
+We found correlation Between **Skin and Thickness**. so we then remove one of them from our feature dataset. 
+#### And Finally Our Selected Features are
+- No of Pregnencies
+- Age
+- Glucose Concentration
+- Blood Pressure
+- Thickness
+- Insulin
+- Body Mass Index
+- Diabetes Predisposition
+
 ### Used Tools:
 * Python 
 * Numpy
