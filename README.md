@@ -12,7 +12,7 @@ We found correlation Between **Skin and Thickness**. so we then remove one of th
 - Blood Pressure
 - Thickness
 - Insulin
-- Body Mass Index
+- BMI(Body Mass Index)
 - Diabetes Predisposition
 
 ### Used Tools:
